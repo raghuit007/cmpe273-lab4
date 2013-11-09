@@ -22,7 +22,7 @@ libraryName: library-a
 
 # HTTP-specific options.
 http:
-  # Root Path http://{host}:{port}/xxx
+# Root Path: http://localhost:8001/library/v1
   rootPath: /library/*
 
   # The port on which the HTTP server listens for service requests.
